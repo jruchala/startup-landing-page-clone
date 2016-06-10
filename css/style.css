@@ -1,0 +1,33 @@
+body {
+  background-color: LightGray;
+}
+
+div {
+  border: 1px solid Chocolate;
+}
+
+.navbar-links > li {
+  display: inline-block;
+}
+
+.top-navigation {
+  background-color: #fff;
+}
+.top-navigation > .content {
+  width: 970px;
+  height: 70px;
+  margin: 0 auto;
+}
+
+.logo {
+  margin-left: 14px;
+  height: 70px;
+}
+
+li {
+  color: Gray;
+}
+
+li.first {
+  color: Black;
+}
