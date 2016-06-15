@@ -100,12 +100,20 @@ div {
   font-size: 2.75rem;
 }
 
+.cases h3 {
+  color: black;
+  text-align: center;
+  font-wight: 400;
+  font-size: 25.008px;
+}
+
 .cases .devices {
   width: 33.3333333%;
   display: inline-block;
   border: 1px solid black;
   box-sizing: border-box;
   height: 4em;
+  margin-right: -4px;
 }
 
 .cases .content {
