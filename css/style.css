@@ -114,11 +114,32 @@ div {
   box-sizing: border-box;
   height: 4em;
   margin-right: -4px;
+
 }
 
 .cases .content {
   margin-top: 7.87rem;
   color: #1d1e21;
+}
+
+.content .icons {
+  width: 33.333333%;
+  text-align: center;
+  display: inline-block;
+}
+
+.social h5,
+.social copy {
+  -webkit-margin-before: 1.67em;
+  -webkit-margin-after: 1.67em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.fa {
+
 }
 
 button {
