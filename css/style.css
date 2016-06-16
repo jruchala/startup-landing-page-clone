@@ -143,6 +143,12 @@ h5 {
   display: inline-block;
 }
 
+.social {
+  text-align: center;
+  overflow: auto;
+  
+}
+
 .social hr {
   border-top: 1px solid  #eaebec;
   margin: 1.313rem 0;
