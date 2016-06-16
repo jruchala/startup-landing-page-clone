@@ -103,7 +103,7 @@ div {
 .cases h3 {
   color: black;
   text-align: center;
-  font-wight: 400;
+  font-wight: 200;
   font-size: 25.008px;
 }
 
@@ -114,6 +114,14 @@ div {
   box-sizing: border-box;
   height: 4em;
   margin-right: -4px;
+  
+
+}
+
+h5 {
+  display: block;
+  -webkit-margin-before: 1.67em;
+  -webkit-margin-after: 1.67em;
 
 }
 
@@ -138,8 +146,8 @@ div {
   text-align: center;
 }
 
-.fa {
-
+.fa-twitter:before {
+  content: "\f099";
 }
 
 button {
