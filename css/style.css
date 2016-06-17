@@ -111,8 +111,7 @@ body {
   width: 33.3333333%;
   display: inline-block;
   box-sizing: border-box;
-  height: 4em;
-  margin-right: -4px;
+  text-align: center;
 }
 
 h3 {
