@@ -112,7 +112,7 @@ body {
   display: inline-block;
   box-sizing: border-box;
   height: 4em;
-  margin-right: -4px;
+  text-align: center;
 }
 
 h3 {
@@ -146,7 +146,7 @@ h5 {
 .social {
   text-align: center;
   overflow: auto;
-  
+  paddint
 }
 
 .social hr {
